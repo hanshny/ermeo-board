@@ -1,6 +1,3 @@
-Bien sûr ! Voici un exemple de fichier `README.md` pour votre application Angular. Ce fichier inclura les instructions pour l'installation, l'exécution et une brève description de l'application.
-
-```markdown
 # Angular Board Application
 
 This is a simple Angular application that allows you to manage items across multiple columns on a board. Each column can hold a list of numbers, which you can add, edit, delete, reorder within a column, and move between columns.
