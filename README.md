@@ -1,4 +1,4 @@
-# Angular Board Application
+# Angular Material Board for Ermeo Application
 
 This is a simple Angular application that allows you to manage items across multiple columns on a board. Each column can hold a list of numbers, which you can add, edit, delete, reorder within a column, and move between columns.
 
